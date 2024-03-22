@@ -1,0 +1,6 @@
+﻿review_id,customer_id,rating,comment
+VV12Y,A1234,5,good
+VV12X,A1234,4,avg
+TY45Y,B1234,4,avg
+NH67,C1234,3,bad
+TY45Y,GGGHHH,3,bad

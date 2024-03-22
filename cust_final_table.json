@@ -1,0 +1,75 @@
+[
+{
+  "customer_id": "A1234",
+  "name": "Aman",
+  "email": "Aman@xyz.com",
+  "payment": {
+    "payment_id": "AX3434",
+    "payment_date": "01/03/24",
+    "amount": "400"
+  },
+  "reviews": [
+    {
+      "review_id": "VV12Y",
+      "rating": "5",
+      "comment": "good"
+    },
+    {
+      "review_id": "VV12X",
+      "rating": "4",
+      "comment": "avg"
+    }
+  ]
+},
+{
+  "customer_id": "B1234",
+  "name": "Rohit",
+  "email": "Rohit@xyz.com",
+  "payment": {
+  "payment_id": "BX5654",
+  "payment_date": "02/03/24",
+  "amount": "600"
+  },
+  "reviews": [
+    {
+    "review_id": "TY45Y",
+    "rating": "4",
+    "comment": "avg"
+    }
+]
+},
+{
+  "customer_id": "TT56",
+  "name": "Rohan",
+  "email": "Rohan@xyz.com",
+  "payment": {
+  "payment_id": "BX5654",
+  "payment_date": "02/03/24",
+  "amount": "600"
+  },
+  "reviews": [
+    {
+    "review_id": "TY45Y",
+    "rating": "4",
+    "comment": "avg"
+    }
+]
+},
+{
+  "customer_id": "GGGHHH",
+  "name": "Anjali",
+  "email": "Anjali@xyz.com",
+  "payment": {
+  "payment_id": "AS5654",
+  "payment_date": "02/03/24",
+  "amount": "700"
+  },
+  "reviews": [
+    {
+    "review_id": "TY45Y",
+    "rating": "4",
+    "comment": "avg"
+    }
+]
+}
+  ]
