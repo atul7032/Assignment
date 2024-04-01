@@ -1,6 +1,16 @@
 .todo-app {
   max-width: 600px;
   margin: 0 auto;
+  padding: 20px;
+  background-color: #f8f9fa;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.todo-heading {
+  font-size: 24px;
+  margin-bottom: 20px;
 }
 
 .add-task-btn {
@@ -35,10 +45,14 @@
   padding: 10px;
   border: 1px solid #ccc;
   border-radius: 5px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 
 .task-item button {
-  margin-left: 10px;
   background-color: #dc3545;
   color: #fff;
   border: none;
